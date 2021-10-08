@@ -1,7 +1,7 @@
 # Olá, sou Israel Ruano!
 
-Formado em Redes de Computadores e Internet, porem as oportunidades de carreira foram na Área Administrativa Financeira (Em transição de carreira).
-Atualmente como PJ busco fortemente retomar meus conhecimentos em tecnologia em busca de poder mudar a minha história profissional fazendo algo que realmente amo.
+Formado em Redes de Computadores e Internet, porem as oportunidades de carreira foram na Área Administrativa Financeira.
+Atualmente como PJ busco fortemente retomar meus conhecimentos em tecnologia em busca de poder mudar a minha história profissional fazendo algo que realmente amo (Em transição de carreira).
 Meu foco será em programação, incialmente em JavaScritp, podendo iniciar/participar de pequenos trabalhos/projetos e com o tempo ir evoluindo cada mais.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ruanodev)](https://github.com/ruanodev)
