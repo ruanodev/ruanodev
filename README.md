@@ -2,7 +2,7 @@
 
 Formado em Redes de Computadores e Internet, porem as oportunidades de carreira foram na Área Administrativa Financeira.
 Atualmente como PJ busco fortemente retomar meus conhecimentos em tecnologia em busca de poder mudar a minha história profissional fazendo algo que realmente amo (Em transição de carreira).
-Meu foco será em programação, incialmente em JavaScritp, podendo iniciar/participar de pequenos trabalhos/projetos e com o tempo ir evoluindo cada mais.
+Meu foco será em programação, incialmente em JavaScritp, podendo iniciar/participar de pequenos trabalhos/projetos e com o tempo evoluindo cada mais.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ruanodev)](https://github.com/ruanodev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israelruanotavares)](https://www.linkedin.com/in/israelruanotavares/)
