@@ -3,11 +3,14 @@
 Sou graduado na Área de Tecnologia, com vivência na Área Administrativa Financeira.
 Retomei meus estudos (atualização) na Área de Desenvolvimento WEB e busco oportunidade de transição de carreira para Área de Tecnologia.
 
-Meu foco inicialmente no Front será utilizando JavaScritp + CSS, na sequencia seguindo estudos com React, NodeJS, MongoDB e explorar o mundo de microsserviços com Kafka.
+Meu foco inicialmente é utilizando JavaScritp + CSS, na sequência seguindo estudos com React, NodeJS, MongoDB e explorar o mundo de microsserviços com Kafka.
 
+Para me conhecer um pouco mais acesso meu perfil no Linkedin:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ruanodev)](https://github.com/ruanodev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israelruanotavares)](https://www.linkedin.com/in/israelruanotavares/)
+<br>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ruanodev)](https://github.com/ruanodev)
+
 
 ## Meus conhecimentos:
 
