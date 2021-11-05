@@ -1,9 +1,9 @@
 # Olá, sou Israel Ruano!
 
-Sou graduado na Área de Tecnologia, com vivência na Área Administrativa Financeira.
+Graduado na Área de Tecnologia e com vivência na Área Administrativa Financeira.
 Retomei meus estudos (atualização) na Área de Desenvolvimento WEB e busco oportunidade de transição de carreira para Área de Tecnologia.
 
-Meu foco inicialmente é utilizando JavaScritp + CSS, na sequência seguindo estudos com React, NodeJS, MongoDB e explorar o mundo de microsserviços com Kafka.
+Meu foco inicialmente será utilizando JavaScritp + CSS, na sequência seguindo estudos com React, NodeJS, MongoDB e explorar o mundo de microsserviços com Kafka.
 
 Para me conhecer um pouco mais acesse meu perfil no Linkedin:
 
