@@ -5,7 +5,7 @@ Retomei meus estudos (atualização) na Área de Desenvolvimento WEB e busco opo
 
 Meu foco inicialmente é utilizando JavaScritp + CSS, na sequência seguindo estudos com React, NodeJS, MongoDB e explorar o mundo de microsserviços com Kafka.
 
-Para me conhecer um pouco mais acesso meu perfil no Linkedin:
+Para me conhecer um pouco mais acesse meu perfil no Linkedin:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israelruanotavares)](https://www.linkedin.com/in/israelruanotavares/)
 <br>
