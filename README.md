@@ -11,6 +11,8 @@ Para me conhecer um pouco mais acesse meu perfil no Linkedin:
 <br>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ruanodev)](https://github.com/ruanodev)
 
+Fone: (11) 99334-0702 whatsapp
+E-mail: israel.ruano@gmail.com
 
 ## Meus conhecimentos:
 
