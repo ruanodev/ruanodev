@@ -3,7 +3,7 @@
 Graduado na Área de Tecnologia e com vivência na Área Administrativa Financeira.
 Retomei meus estudos (atualização) na Área de Desenvolvimento WEB e busco oportunidade de transição de carreira para Área de Tecnologia.
 
-Meu foco inicialmente será utilizando JavaScritp + CSS, na sequência seguindo estudos com React, NodeJS, MongoDB e explorar o mundo de microsserviços com Kafka.
+Meu foco inicialmente será utilizando JavaScritp + CSS, na sequência seguindo estudos com React, NodeJS, MongoDB ...
 
 Para me conhecer um pouco mais acesse meu perfil no Linkedin:
 
