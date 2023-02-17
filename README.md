@@ -1,6 +1,6 @@
 # Olá, sou Israel Ruano!
 
-Graduado na Área de Tecnologia e com vivência na Área Administrativa de empresas de Marketing Digital.
+Graduado na Área de Tecnologia e com experiência em empresas de Marketing Digital.
 
 Front: html/css/javascript - Wordpress + Elementor
 Back: servidores linux - apache/mariadb
