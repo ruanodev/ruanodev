@@ -1,9 +1,10 @@
 # Olá, sou Israel Ruano!
 
-Graduado na Área de Tecnologia e com vivência na Área Administrativa Financeira.
-Retomei meus estudos (atualização) na Área de Desenvolvimento WEB e busco oportunidade de transição de carreira para Área de Tecnologia.
+Graduado na Área de Tecnologia e com vivência na Área Administrativa de empresas de Marketing Digital.
 
-Meu foco inicialmente será utilizando JavaScritp + CSS, na sequência seguindo estudos com React, NodeJS, MongoDB ...
+Front: html/css/javascript - Wordpress + Elementor
+Back: servidores linux - apache/mariadb
+
 
 Para me conhecer um pouco mais acesse meu perfil no Linkedin:
 
